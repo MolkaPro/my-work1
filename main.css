@@ -1,0 +1,437 @@
+body{
+    position: relative;
+    width: 1440px;
+    height: 3159px;
+    
+    background: #171717;
+}
+#oy{
+    position: absolute;
+    width: 212px;
+    height: 47px;
+    left: 80px;
+    top: 28px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 47px;
+    text-decoration: underline;
+    /* identical to box height */
+
+
+    color: #FFFFFF;
+}
+#About{
+    position: absolute;
+    width: 83px;
+    height: 23px;
+    left: 1020px;
+    top: 40px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    
+    color: #FFFFFF;
+}
+#sv{
+    position: absolute;
+    width: 71px;
+    height: 23px;
+    left: 1143px;
+    top: 40px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+
+}
+#cn{
+    position: absolute;
+    width: 99px;
+    height: 23px;
+    left: 1254px;
+    top: 40px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+}
+.p{
+        
+    position: absolute;
+    width: 453px;
+    height: 124px;
+    left: 128px;
+    top: 395px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+
+    color: #FFFFFF;
+}
+.ep{
+    
+position: absolute;
+width: 650px;
+height: 650px;
+left: 692px;
+top: 187px;
+background: url(images/Group\ 1.png);
+}
+.gp1{
+    position: absolute;
+    width: 143px;
+    height: 42px;
+    left: 130px;
+    top: 586px;
+    background: url(images/Group\ 3.png);
+}
+.gp2{
+    position: absolute;
+    width: 143px;
+    height: 42px;
+    left: 283px;
+    top: 586px;
+    background: url(images/Group\ 2.png);
+}
+.about{
+    
+    position: absolute;
+    width: 144px;
+    height: 62px;
+    left: 648px;
+    top: 884px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 62px;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.text{
+    position: absolute;
+    width: 745px;
+    height: 136px;
+    left: 347px;
+    top: 984px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 23px;
+    text-align: center;
+
+    color: #FFFFFF;
+    }
+    .img4{ 
+    position: absolute;
+    width: 62px;
+    height: 62px;
+    left: 282px;
+    top: 1158px;
+    background: url(images/Group\ 4.png);
+    }
+    .text4{
+        /* Full Name */
+        position: absolute;
+        width: 86px;
+        height: 23px;
+        left: 270px;
+        top: 1238px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 23px;
+
+        color: #FFFFFF;
+    }
+    .text44{
+        /* Your name goes here */
+            position: absolute;
+            width: 174px;
+            height: 23px;
+            left: 226px;
+            top: 1264px;
+
+            font-family: 'DM Sans';
+            font-style: normal;
+            font-weight: 400;
+            font-size: 18px;
+            line-height: 23px;
+
+            color: #FFFFFF;
+    }
+    .img5{
+        position: absolute;
+        width: 62px;
+        height: 62px;
+        left: 563px;
+        top: 1158px;
+
+        background: url(images/Group\ 4.png); 
+    }
+    .text5{
+        position: absolute;
+        width: 124px;
+        height: 23px;
+        left: 532px;
+        top: 1238px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 23px;
+
+        color: #FFFFFF;
+    }
+    .text55{
+        /* Your email goes here */
+        position: absolute;
+        width: 172px;
+        height: 23px;
+        left: 508px;
+        top: 1264px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 23px;
+
+        color: #FFFFFF;
+    }
+    .img6{
+        position: absolute;
+        width: 62px;
+        height: 62px;
+        left: 838px;
+        top: 1158px;
+
+        background: url(images/Group\ 4.png); 
+    }
+    .text6{
+            
+    position: absolute;
+    width: 62px;
+    height: 23px;
+    left: 838px;
+    top: 1238px;
+
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 23px;
+
+    color: #FFFFFF;
+    }
+    .text66{
+        /* Your email goes here */
+        position: absolute;
+        width: 172px;
+        height: 23px;
+        left: 783px;
+        top: 1264px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 23px;
+
+        color: #FFFFFF;
+    }
+    .img7{
+        position: absolute;
+        width: 62px;
+        height: 62px;
+        left: 1118px;
+        top: 1158px;
+
+        background: url(images/Group\ 4.png); 
+    }
+    .text7{
+        /* Phone */
+        position: absolute;
+        width: 55px;
+        height: 23px;
+        left: 1122px;
+        top: 1238px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 23px;
+
+        color: #FFFFFF;
+
+    }
+    .text77{
+        position: absolute;
+        width: 174px;
+        height: 23px;
+        left: 1062px;
+        top: 1264px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 18px;
+        line-height: 23px;
+
+        color: #FFFFFF;
+    }
+    .title1{
+        
+        position: absolute;
+        width: 222px;
+        height: 60.03px;
+        left: 607px;
+        top: 1407px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .frame{
+        position: absolute;
+        width: 1168px;
+        height: 233.34px;
+        left: 141px;
+        top: 1569.66px;
+        background: url(images/Frame\ 1.png);
+    }
+    .sk{
+        /* My Skills */
+        position: absolute;
+        width: 202px;
+        height: 62px;
+        left: 617px;
+        top: 1944px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        text-align: center;
+
+        color: #FFFFFF;
+    }
+    .box11{
+        box-sizing: border-box;
+
+        position: absolute;
+        width: 1168px;
+        height: 235px;
+        left: 141px;
+        top: 2079px;
+
+        background: #212121;
+        /* Gray 1 */
+
+        border: 1px solid #333333;
+    }
+    .html{
+        position: absolute;
+        width: 159px;
+        height: 119px;
+        left: 266px;
+        top: 2138px;
+        background: url(images/Group\ 9.png);
+    }
+    .css{
+        position: absolute;
+        width: 155px;
+        height: 119px;
+        left: 545px;
+        top: 2138px;
+        background: url(images/Group\ 8.png);
+    }
+    .js{
+        position: absolute;
+        width: 141px;
+        height: 119px;
+        left: 820px;
+        top: 2138px;
+        background: url(images/Group\ 7.png);
+    }
+    .php{
+        position: absolute;
+        width: 104px;
+        height: 119px;
+        left: 1081px;
+        top: 2138px;
+        background: url(images/Group\ 6.png);
+
+    }
+    .gt{
+        position: absolute;
+        width: 287px;
+        height: 62px;
+        left: 575px;
+        top: 2414px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 48px;
+        line-height: 62px;
+        text-align: center;
+
+        color: #FFFFFF;  
+    }
+    .formulaire{
+        position: absolute;
+        width: 753px;
+        height: 330px;
+        left: 343px;
+        top: 2558px;
+        background: url(images/Group\ 10.png);
+    }
+    .copyright{
+        position: absolute;
+        width: 134px;
+        height: 18px;
+        left: 654px;
+        top: 3048px;
+
+        font-family: 'DM Sans';
+        font-style: normal;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 18px;
+
+        /* Gray 2 */
+
+        color: #4F4F4F;
+    }
